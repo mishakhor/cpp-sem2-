@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\project_sfl.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\project_sfl.dir/objects.a @CMakeFiles\project_sfl.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\project_sfl.dir/objects.a -Wl,--no-whole-archive -o project_sfl.exe -Wl,--out-implib,libproject_sfl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\project_sfl.dir\linklibs.rsp

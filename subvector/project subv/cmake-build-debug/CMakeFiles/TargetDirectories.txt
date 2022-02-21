@@ -1,0 +1,3 @@
+D:/project subv/cmake-build-debug/CMakeFiles/project_subv.dir
+D:/project subv/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project subv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
